@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/portifolio/static/js/main.e2f3abd8.js",
+    "static/media/perfil.jpeg": "/portifolio/static/media/perfil.761519a8027c2fd8c047.jpeg",
+    "static/media/python.png": "/portifolio/static/media/python.41259ded83ae0f2a4243.png",
+    "static/media/java.svg": "/portifolio/static/media/java.0e81967422e1a32526deb8d3a9ec68b3.svg",
+    "static/media/type.svg": "/portifolio/static/media/type.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/Estrela.svg": "/portifolio/static/media/Estrela.21dee24a4dc166f57693ab3dbe184abd.svg",
+    "static/media/Vazia.svg": "/portifolio/static/media/Vazia.a943d7b600f65c73cfec50ec179f1e3e.svg",
+    "static/media/css3.svg": "/portifolio/static/media/css3.aec31ad6887c3a820a1b3b8e2b9d9937.svg",
+    "static/media/github.svg": "/portifolio/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
+    "index.html": "/portifolio/index.html",
+    "static/media/js.svg": "/portifolio/static/media/js.1192a303c7e00b85f5dedb939fd9a088.svg",
+    "static/media/git.svg": "/portifolio/static/media/git.da7cbb7e0f60abd807f4ef40cc3da768.svg",
+    "static/media/html5.svg": "/portifolio/static/media/html5.84c6adac417775a66b5529f1ae8d4572.svg",
+    "main.e2f3abd8.js.map": "/portifolio/static/js/main.e2f3abd8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e2f3abd8.js"
+  ]
+}
